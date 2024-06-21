@@ -22,7 +22,7 @@ SQLSolver is an automated SQL equivalence solver based on SMT solver and Linear 
 In this project, I contributed to the design and implementation of SQL query to logical formula translation, and the evaluation on Calcite test suite.
 
 [pdf](https://dl.acm.org/doi/10.1145/3626768) | 
-[source code](https://github.com/WeTune/SQLSolver-code) | 
+[source code](https://github.com/SJTU-IPADS/SQLSolver) | 
 [online demo](https://sqlsolver.systems/sqlsolver/home)
 
 WeTune
