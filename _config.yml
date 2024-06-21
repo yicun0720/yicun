@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yicun Yang / My Profile"
+title                    : "Yicun Yang's Homepage'"
 title_separator          : "-"
 name                     : &name "Yicun Yang"
 description              : &description "personal description"
