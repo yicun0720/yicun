@@ -19,7 +19,7 @@ Projects
 SQLSolver
 ------
 SQLSolver is an automated SQL equivalence solver based on SMT solver and Linear Integer Arithmetic Theory. Compared to existing SQL equivalence solvers, it supports more SQL features, guaranteeing a stronger verification capability. In our evaluation, SQLSolver can verify the equivalence of all 232 query pairs from the Calcite test suite, while only 121 of them can be proved by prior provers. 
-In this project, I contributed to the design and implementation of SQL query to logical formula translation, and the evaluation on Calcite test suite.
+In this project, I contributed to the implementation of SQL query to logical formula translation, and the evaluation on Calcite test suite.
 
 [pdf](https://dl.acm.org/doi/10.1145/3626768) | 
 [source code](https://github.com/SJTU-IPADS/SQLSolver) | 
