@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yicun Yang, a Ph.D. student at the Institute of Parallel and Distributed Systems (IPADS), Shanghai Jiao Tong University. 
+I am Yicun Yang, a Ph.D. student at the Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), Shanghai Jiao Tong University. 
 Currently, my advisor is Prof. [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang) and my research interest lies in SQL query processing and optimization in database systems, with the application of formal verification, AI, etc.
 
 <!-- I'm always full of energy for life. I love sports (especially ballgames like 🏀 and 🏸️), musics, aerial photography and traveling.
