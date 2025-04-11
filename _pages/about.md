@@ -8,13 +8,24 @@ redirect_from:
 ---
 
 I am Yicun Yang, a Ph.D. student at the Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), Shanghai Jiao Tong University. 
-Currently, my advisor is Prof. [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang) and my research interest lies in SQL query processing and optimization in database systems, with the application of formal verification, AI, etc.
+Currently, my advisor is Prof. [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang) and my research interest lies in SQL query processing and optimization in database systems, with the application of formal verification, LLMs, etc.
 
 <!-- I'm always full of energy for life. I love sports (especially ballgames like 🏀 and 🏸️), musics, aerial photography and traveling.
 Welcome everyone from all corners of the world to make friends with me. -->
 
 Projects
 ======
+
+SQLDriller
+------
+SQLDriller is a tool for automatically detecting and fixing Text-to-SQL error translations.
+It aims to improve existing Text-to-SQL datasets quality and thus improve Text-to-SQL model accuracy (by up to 13.6% for SOTA models).
+It is the first one to introduce the correctness condition of Text-to-SQL translations, namely Execution Consistency.
+Leveraging Execution Consistency, it then integrates techniques of SQL equivalence verification and LLM inference to complete Text-to-SQL error detection and fixing. 
+
+[pdf: soonly public]() | 
+[source code: soonly public]()  
+
 
 SQLSolver
 ------
