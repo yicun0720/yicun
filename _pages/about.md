@@ -23,8 +23,8 @@ It aims to improve existing Text-to-SQL datasets quality and thus improve Text-t
 It is the first one to introduce the correctness condition of Text-to-SQL translations, namely Execution Consistency.
 Leveraging Execution Consistency, it then integrates techniques of SQL equivalence verification and LLM inference to complete Text-to-SQL error detection and fixing. 
 
-[pdf: soonly public]() | 
-[source code: soonly public]()  
+pdf: soonly public | 
+source code: soonly public()  
 
 
 SQLSolver
