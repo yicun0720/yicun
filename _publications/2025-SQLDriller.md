@@ -6,8 +6,8 @@ permalink: /publication/2025-SQLDriller
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2025-06-21
 venue: 'SIGMOD'
-# paperurl: '[to be public]'
-# codeurl: '[to be public]'
+paperurl: 'https://dl.acm.org/doi/10.1145/3725271'
+codeurl: 'https://github.com/SJTU-IPADS/SQLDriller'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
